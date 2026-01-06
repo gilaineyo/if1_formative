@@ -40,6 +40,3 @@ for i in range(int(number_of_questions)):
         print("Wrong!")
 
 print(f"Well done {name}! Your score is {score} out of {number_of_questions}")
-
-
-    

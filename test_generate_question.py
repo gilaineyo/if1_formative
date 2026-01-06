@@ -1,5 +1,5 @@
 import random
-from generate_question import generate_question # Import the question generator and question type functions
+from generate_question import generate_question
 
 def test_generate_division(monkeypatch):
     values = [3,5,30,50]
